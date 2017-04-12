@@ -1,0 +1,23 @@
+body{
+	background: whiteSmoke;
+}
+div {
+	background: wheat;
+    width:40%;
+    margin-left: 25%;
+    border: 2px solid red;
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 6%;
+
+}
+
+aside {
+       margin-left: 30%;
+        padding: 2%;
+       background: blue;
+       width: 100px;
+       margin-top: 12px;
+       border-radius: 30px;
+       text-align: center;
+}
