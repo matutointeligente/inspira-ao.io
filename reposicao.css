@@ -1,0 +1,26 @@
+body {
+	background:black; color: white;
+	
+}
+ul li {
+	list-style-type: none;
+    width: 400px;/*largura*/
+    height: 34px;/*altura*/
+    display: flex;/*caixinha*/
+    flex-direction: row;
+    padding: 12px;
+    margin: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    background: red;
+    padding-left: 0px;
+    float: left;
+    
+
+
+}
+
+ul li:hover{
+	background-color: blue;
+
+}
